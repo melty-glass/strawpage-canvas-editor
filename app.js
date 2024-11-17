@@ -3,7 +3,7 @@ width = pic.firstChild.getAttribute('width');
 height = pic.firstChild.getAttribute('height');
 
 resize = (w, h) => {
-    pic.parentElement.parentElement.setAttribute('style', `width: ${w + 4}px; height: ${h + 47.6}px`);
+    pic.parentElement.parentElement.setAttribute('style', `width: ${w + 4}px; height: ${h + 48.6}px`);
     pic.firstChild.setAttribute('width', w+'px');
     pic.firstChild.setAttribute('height', h+'px');
 

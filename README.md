@@ -1,4 +1,4 @@
-I'll try to make it more understandable later, but the main thing you need to know is that I define two functions in this script: `resize()` and `ref()`.
+I'll try to make it more understandable later, but the main thing you need to know is that I define two functions in this script: `resize()` and `ref()`. You can use these commands in the Inspect Element console on your browser.
 
 The format for resizing the canvas is `resize(width, height)`.
 
